@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Default Django settings. Override these with settings in the module pointed to
-by the DJANGO_SETTINGS_MODULE environment variable.
+Django框架的全局默认设置。用指向的模块中的设置覆盖它们
+通过'DJANGO_SETTINGS_MODULE'来设置环境变量。
 """
 from __future__ import unicode_literals
 
